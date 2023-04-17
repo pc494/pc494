@@ -1,6 +1,5 @@
 ### Hi there, I'm Phillip Crout 👋
 
-- I've recently built myself a (very) small website, which you can see [here](https://phillipcrout.github.io/).
 - If you want to read some code I've written, my pinned repositories are the place to start.
 - 💬 Pronouns: he/him
 
