@@ -7,4 +7,4 @@ I've written a fair bit of code since I joined Github in 2017; a few highlights 
 - [kelpgames](https://kelpgames.itch.io/): a moniker under which I built games with a friend for Game Jams in the summer of 2023.
 - [smlt](https://github.com/pc494/smlt): a quick weekend project that allowed me to download all of my tweets after the website got taken over.
 
-I also help out with the pyxem and orix projects (source code in my pins) which I worked on from 2017 through to 2021 as part of my PhD.
+I also help out with pyxem and orix (source code in my pins), projects which I worked on from 2017 through to 2021 as part of my PhD.
