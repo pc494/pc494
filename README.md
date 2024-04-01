@@ -1,4 +1,4 @@
-I've written a fair bit of code since I joined Github in 2017. The open-source highlights are in the pins. Deployments for my closed-source project are linked below.
+I've written a fair bit of code since I joined Github in 2017; you can find my open-source highlights in the pins. For closed-source projects see the links below.
 
 ## Cross country running tools
 
