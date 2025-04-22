@@ -3,5 +3,5 @@ I've written a fair bit of code since I joined Github in 2017; you can find my o
 
 ### What I'm up to
 
-\> Nervously watching the (semi-) random walk as my entry to [Lux AI, Season 3](https://www.kaggle.com/competitions/lux-ai-season-3/overview) tries to hang on for a silver medal.
+Currently improving some of my local workflows but making myself extremely short keybindings.
 
